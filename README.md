@@ -3,7 +3,7 @@ Text to Emotion Detection - NLP
 
 Requirements 
 
-libraries: pandas, numpy, seaborn, neattext, sklearn, altair 
+Libraries: pandas, numpy, seaborn, neattext, sklearn, altair 
 
 Deploying the model: streamlit
 
